@@ -32,26 +32,6 @@ Today's focus will be on **developing more advanced NLTK skills** and using thes
 
 *Any questions or anything before we dive in?*
 
-## Dirty data
-
-Now that we're going beyond nltk example data, we're bond to run into dirty data.
-
-A common part of corpus building is corpus cleaning. Reasons for cleaning include:
-
-1. Not break the code with unexpected input
-2. Ensure that searches match as many examples as possible
-3. Increasing readability, the accuracy of taggers, stemmers, parsers, etc.
-
-The level of kind of cleaning depends on your data, the aims of your project and where you are in your research. In the case of very clean data (lucky you!), there may be little that needs to be done. With messy data, you may need to go as far as to correct variant spellings (online conversation, very old books).
-
-If you need help with data cleaning, we offer trainings in [OpenRefine](https://github.com/yuandra/2016-02-01-data-acquisition-cleaning/blob/gh-pages/open-refine-01-intro.md)
-
-### Discussion
-
-*What are the characteristics of clean and messy data? Any personal experiences? Discuss with your neighbours.* 
-
-It will be important to bear these characteristics in mind once you start building your own datasets and corpora. 
-
 ## Uploading text files
 
 First of all, let's load in our text.
