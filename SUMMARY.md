@@ -5,5 +5,5 @@
 * [section1](content/section1.md)
 * [section2](content/section2.md)
 * [Variables](variables.md)
-* Funtions
+* [Funtions](functions.md)
 
