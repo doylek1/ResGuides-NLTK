@@ -3,14 +3,27 @@
 <img style="float:left" src="http://ipython.org/_static/IPy_header.png" />
 <br>
 
-# Session 1: python syntax, variables, functions, list and loops
+# Natural Language Processing with NLTK
 
 <br>
-Welcome to the *IPython Notebook*. Through this interface, you'll be learning a lot of things:
+Welcome to this session on textual analysis with the Natural Language Toolkit or nltk, as we'll call it from now on. Nltk uses the computer programming language Python for natural language processing.
 
-* How to use iPython
+This session will cover:
 
-* Some simple commands and syntax for exploring vocab with programming, specifically, the python library nltk
+ 
+###Background:
+
+* What is nltk and what is it good for
+
+###Context:
+* What are the applications of Natural Language Processing for research, examples and possibilities
+
+###Activity:
+
+* Some simple commands and syntax for exploring vocab with programming, specifically, concordancing and collocational analysis
+
+###Help:
+* Resources to help you on your nltk journey
 
 * How to use lists and indexing with Python to explore vocab
 
@@ -24,8 +37,7 @@ Welcome to the *IPython Notebook*. Through this interface, you'll be learning a 
 
 * Web scraping with nltk and beautiful soup
 
-You can head [here](https://github.com/resbaz/lessons/blob/master/nltk/README.md) for the fully articulated overview of the course, but we'll almost always stay within IPython. 
-Remember, everything we cover here will remain available to you after ResBaz is over, including these Notebooks. It's all accessible at the [ResBaz GitHub](https://github.com/resbaz/lessons/tree/master/nltk).
+You can head [here](https://github.com/resbaz/lessons/blob/master/nltk/README.md) for the fully articulated overview of the course. Everything we cover here and more is available to you. It's all accessible at the [ResBaz GitHub](https://github.com/resbaz/lessons/tree/master/nltk).
 
 **Where am I!?**
 
