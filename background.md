@@ -14,7 +14,13 @@ In contrast, **artificial languages**, for example Python, have no such ambiguit
 
 !!--Enter a picture of just such an error message--!!
 
-**Natural Language Processing** (NLP) tries to use programming to understand human languages. 
+**Natural Language Processing** (NLP) tries to use programming to understand human languages. Usually, this is in the form of written text or audio that is translated into text and then converting language into something the computer can understand. Numbers.  
+
+I am using NLP in a broad sense here... i.e. any computer manipulation of natural language. 
+
+At one extreme, this could be simple. For example, counting word frequencies to compare different writing styles. 
+
+At the other extreme, you can get very complicated very quickly. For example, "understanding" complete human utterances to the extend you can respond to them.
 
 
 
