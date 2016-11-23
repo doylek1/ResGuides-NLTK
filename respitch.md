@@ -21,7 +21,7 @@ What are the applications of Natural Language Processing for research, examples 
 
 ###3) Activity:
 
-Play with some simple commands and syntax for exploring vocabulary, specifically, concordancing and collocational analysis
+We'll play with some simple commands and syntax for exploring vocabulary; specifically, concordancing and collocational analysis.
 
 ###4) Help!
 Resources to help you on your nltk journey
