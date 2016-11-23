@@ -35,5 +35,7 @@ Here, we have only a few, simple nouns (*you*, *I*), with more expressive verbs 
 
 At the other extreme, you can get very complicated very quickly. For example, "understanding" complete human utterances to the extend you can respond to them.
 
+!!--get an example of a complicated nlp project, preferably a visual and relatable one--!!
+
 
 
