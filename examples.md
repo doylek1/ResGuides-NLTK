@@ -16,7 +16,9 @@ The famous murder mystery author is suspected by many of having the disease, but
 
 P. D. James (right)
 
-who aged healthily, although she is dead now, but from old age.
+Crime novelists, who by all reports, lived a long and health life.
+
+!!--explain how they used NLTK in their research--!!
 
 Their results support the hypothesis that signs of dementia can be found in diachronic analyses of patients’ writings.
 
