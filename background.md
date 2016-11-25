@@ -32,7 +32,7 @@ In comparison, informal speech is characterised by smaller clauses, and thus mor
       A: Did you feel like dropping by?
       B: I thought I did, but now I don't think I want to
 
-Here, we have only a few, simple nouns (*you*, *I*), with more expressive verbs (*feel*, *dropping by*, *think*, *want*)
+Here, we have only a few, simple nouns (*you*, *I*), with more expressive verbs (*feel*, *dropping by*, *think*, *want*).
 
 At the other extreme, you can get very complicated very quickly. For example, "understanding" complete human utterances to the extend you can respond to them.
 
