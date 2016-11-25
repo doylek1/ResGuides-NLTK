@@ -31,7 +31,7 @@ Mood features of a language include:
 
 * Mood types (*declarative, interrogative, imperative*)
 * Modality (*would, can, might*)
-* Lexical density--wordshe number of words per clause, the number of content to non-content words, etc.
+* Lexical density--the number of words per clause, the number of content to non-content words, etc.
 
 According to scopus, Natural Language Processing with Python has been cited 461 times, since published in 2009, in research that really covers the gamut of disciplines from Computer Science, Social Sciences, Engineering, Mathematics, Arts and Humanities, Medicine, Business, Management and Accounting, Decision Sciences, Neuroscience, Biochemistry, Genetics and Molecular Biology
 
