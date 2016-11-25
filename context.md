@@ -17,8 +17,8 @@ Central to the theory is a division between **experiential meanings** and **inte
 
 Halliday argues that these two kinds of meaning are realised **simultaneously** through different parts of English grammar.
 
-* Experiential meanings are made through **transitivity choices**.
-* Interpersonal meanings are made through **mood choices**
+* Experiential meanings made through **transitivity choices**.
+* Interpersonal meanings made through **mood choices**
 
 
 Transitivity choices include fitting together configurations of:
