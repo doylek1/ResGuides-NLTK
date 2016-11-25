@@ -2,7 +2,10 @@
 
 Perhaps you recognise these women?
 
-!!--insert their pictures here--!!
+
+> !!--insert their pictures here--!!
+
+
 
 I'll give you a clue, they are all English Novelists
 
@@ -18,7 +21,10 @@ P. D. James (right)
 
 Crime novelists, who by all reports, lived a long and health life.
 
-!!--explain how they used NLTK in their research--!!
+
+> !!--explain how they used NLTK in their research--!!
+
+
 
 Their results support the hypothesis that signs of dementia can be found in diachronic analyses of patients’ writings.
 
