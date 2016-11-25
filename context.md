@@ -1,16 +1,8 @@
 # Context
 
-Nltk is a library of Python for nlp. 
+As I mentioned in the introduction, NLTK is a library of Python for NLP. 
 
-The NLTK project began when Steven Bird was teaching Computation Linguistics at the University of Pennsylvania in 2001, and hired his star student, Edward Loper, from the previous offering of the course to be the teaching assistant (TA). 
-
-They agreed a plan for developing software infrastructure for NLP teaching that could be easily maintained over time. 
-
-That software infrastructure became nltk.
-
-There are 32 universities in the US and 25 countries using NLTK in their courses. 
-
-NLTK supports at least 40 different languages.
+It began its life in 2001, as a project of Steven Bird and Edward Loper. Bird, a professor in computational linguistics at the University of Pennsylvania at the time and Loper, his star student. Together, they agreed a plan for developing software infrastructure for NLP teaching that could be easily maintained over time. That software infrastructure became NLTK, which is now used in many university courses, not just in the United States, but around the world. NLTK supports at least 40 different languages.
 
 So it's designed by researchers for researchers, although many others use it. 
 
