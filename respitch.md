@@ -12,22 +12,22 @@ Welcome to this session on textual analysis with the Natural Language Toolkit or
 This session we'll cover four main areas.
 
  
-###1) Context: 
+###1. Context 
 
 What is Natural Language Processing (NLP)? What is it look for and what are the applications for research?
 
-###2) Background:
+###2. Background
 
 What is the Natural Language Toolkit (NLTK)? How is it related to NLP and why might I use it?
 
-###3) Examples:
+###3. Examples
 
 How is NLTK used in research? Let's explore some examples from a diverse arrange of disciplines. 
 
-###4) Activity:
+###4. Activity
 
 We'll play with some simple commands and syntax for exploring vocabulary; specifically, concordancing and collocational analysis.
 
-###4) Help!
+###5. Help!
 Resources to help you on your nltk journey
 
