@@ -1,4 +1,4 @@
-# Background
+#Background
 
 Let's start with some definitions...
 
@@ -22,7 +22,8 @@ At one extreme, this could be simple. For example, counting word frequencies to 
 
 Lexical density is usually a good indicator of the general tone of texts. The language of academia, for example, often has a huge number of nouns to verbs. We can approximate an academic tone simply by making nominally dense clauses: 
 
-      The consideration of interest is the potential for a participant of a certain demographic to be in Group A or Group B*.
+      The consideration of interest is the potential for a participant of a certain 
+      demographic to be in Group A or Group B*.
 
 Notice how not only are there many nouns (*consideration*, *interest*, *potential*, etc.), but that the verbs are very simple (*is*, *to be*).
 
