@@ -1,4 +1,4 @@
-# Context
+# The Natural Language Toolkit
 
 As I mentioned in the introduction, NLTK is a library of Python for NLP. NLTK is open source, so anyone with the skills can contribute to the tool. 
 
