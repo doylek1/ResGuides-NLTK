@@ -5,5 +5,5 @@
 * [Session Two](nltk-session-2-beginners.md)
 * [Respitch - intro](respitch.md)
 * [Context](background.md)
-* [Context](context.md)
+* [Background](context.md)
 
