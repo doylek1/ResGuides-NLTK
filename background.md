@@ -12,7 +12,12 @@ These languages come with their own histories and culture; our history and cultu
 
 In contrast, **artificial languages**, for example Python, have no such ambiguity. Computer languages are mathematical and logical. Ambiguity in computer programming languages leads to error messages. 
 
-!!--Enter a picture of just such an error message--!!
+```---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-32-d25100ff30af> in <module>()
+----> 1 love
+
+NameError: name 'love' is not defined```
 
 **Natural Language Processing** (NLP) tries to use programming to understand human languages. Usually, this is in the form of written text or audio that is translated into text and then converting language into something the computer can understand. Numbers.  
 
