@@ -12,12 +12,13 @@ Welcome to this session on textual analysis with the Natural Language Toolkit or
 This session we'll cover four main areas.
 
  
-###1) Background:
+###1) Context: 
 
-What is nltk and what is it good for
+What is Natural Language Processing (NLP)? What is it look for and what are the applications for research?
 
-###2) Context:
-What are the applications of Natural Language Processing for research, examples and possibilities
+###2) Background:
+
+What is the Natural Language Toolkit? How is it related to NLP and why might I use it?
 
 ###3) Activity:
 
