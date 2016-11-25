@@ -19,6 +19,8 @@ NameError                                 Traceback (most recent call last)
 
 NameError: name 'love' is not defined```
 
+**Don't be offended by error messages. Don't take their diffuse statements as criticism or rejection. They will eventually help you debug your code.
+
 **Natural Language Processing** (NLP) tries to use programming to understand human languages. Usually, this is in the form of written text or audio that is translated into text and then converting language into something the computer can understand. Numbers.  
 
 I am using NLP in a broad sense here... i.e. any computer manipulation of natural language. 
