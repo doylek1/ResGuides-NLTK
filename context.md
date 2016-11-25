@@ -33,8 +33,8 @@ Mood features of a language include:
 * Modality (*would, can, might*)
 * Lexical density--the number of words per clause, the number of content to non-content words, etc.
 
-The book written by Steven Bird, Edward Loper and their collaborator ... Natural Language Processing with Python has been cited 461 times, since published in 2009, in research that really covers the gamut of disciplines from Computer Science, Social Sciences, Engineering, Mathematics, Arts and Humanities, Medicine, Business, Management and Accounting, Decision Sciences, Neuroscience, Biochemistry, Genetics and Molecular Biology
+The book *Natural Language Processing with Python* (2009) written by Steven Bird, Edward Loper and their collaborator Ewan Klein, has been cited at least 461 times in research that covers the gamut of disciplines -- Computer Science, Social Sciences, Engineering, Mathematics, Arts and Humanities, Medicine, Business, Management and Accounting, Decision Sciences, Neuroscience, Biochemistry, Genetics and Molecular Biology, to name a few. 
 
-It is a tool designed by researchers for researchers, although it is now also used by industries and others (GET EXAMPLES!!). 
+Its design and use shows that NLTK is a tool designed by researchers for researchers, although it is now also used by industries and others (GET EXAMPLES!!). 
 
 
