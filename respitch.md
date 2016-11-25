@@ -4,6 +4,9 @@
 <img style="float:left" src="http://ipython.org/_static/IPy_header.png" />
 <br>
 
+> !!--get a better header pic, the nltk logo?? and or text mining platy--!!
+
+
 # Natural Language Processing with NLTK
 
 <br>
@@ -30,4 +33,8 @@ We'll play with some simple commands and syntax for exploring vocabulary; specif
 
 ###5. Help!
 Resources to help you on your nltk journey
+
+> !!--need to work out how to properly link section headings to sections--!!
+
+
 
