@@ -6,6 +6,8 @@ It began its life in 2001, as a project of Steven Bird and Edward Loper. Bird, a
 
 That software infrastructure became NLTK. The toolkit supports at least 40 different languages and is now used in many university courses around the world.  It is also backed by the theoretical framework and literature of functional linguistics.
 
+
+
 According to scopus, Natural Language Processing with Python has been cited 461 times, since published in 2009, in research that really covers the gamut of disciplines from Computer Science, Social Sciences, Engineering, Mathematics, Arts and Humanities, Medicine, Business, Management and Accounting, Decision Sciences, Neuroscience, Biochemistry, Genetics and Molecular Biology
 
 It is a tool designed by researchers for researchers, although it is now also used by industries and others (GET EXAMPLES!!). 
