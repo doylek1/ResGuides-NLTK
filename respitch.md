@@ -18,9 +18,13 @@ What is Natural Language Processing (NLP)? What is it look for and what are the 
 
 ###2) Background:
 
-What is the Natural Language Toolkit? How is it related to NLP and why might I use it?
+What is the Natural Language Toolkit (NLTK)? How is it related to NLP and why might I use it?
 
-###3) Activity:
+###3) Examples:
+
+How is NLTK used in research? Let's explore some examples from a diverse arrange of disciplines. 
+
+###4) Activity:
 
 We'll play with some simple commands and syntax for exploring vocabulary; specifically, concordancing and collocational analysis.
 
