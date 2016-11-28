@@ -1,6 +1,6 @@
 # Example: Dementia
 
-Perhaps you recognise these women?
+Perhaps you recognize these women?
 
 
 > !!--insert their pictures here--!!
