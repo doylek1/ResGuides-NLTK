@@ -6,6 +6,6 @@
 * [Respitch - intro](respitch.md)
 * [Context](background.md)
 * [Background](context.md)
-* [Examples](examples.md)
+* [Example: Dementia](examples.md)
 * Example: Shakespeare
 
