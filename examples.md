@@ -1,4 +1,4 @@
-# Example: dementia
+# Example: Dementia
 
 Perhaps you recognise these women?
 
