@@ -10,4 +10,5 @@
 * [Example: Shakespeare](example_shakespeare.md)
 * [Example](example.md)
 * [Conclusion](conclusion.md)
+* Activity
 
