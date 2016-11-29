@@ -5,6 +5,11 @@
 
 Marketing and use of electronic cigarettes have increased exponentially in recent years. This trend is in part fueled by marketing and word-of-mouth communication on social media platforms, such as Twitter.
 
+
+> something about the multidisciplinary nature of the study (medicine journal, social media, language, marketing etc...)
+
+
+
 This study examines Twitter posts about e-cigarettes between 2008 and 2013 to gain insights into marketing trends in promoting and selling e-cigarettes and the locations where people use these devices.
 
 Interestingly, the study uses a combination of manual classification and natural language processing...
