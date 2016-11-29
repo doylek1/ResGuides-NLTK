@@ -11,6 +11,5 @@
 * [Example](example.md)
 * [Activity](activity.md)
    * [Challenge!](challenge.md)
-       * another e.g.
 * [Conclusion](conclusion.md)
 
