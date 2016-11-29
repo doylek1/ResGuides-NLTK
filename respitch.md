@@ -1,5 +1,3 @@
-# Respitch
-
 <br>
 <img style="float:left" src="https://static1.squarespace.com/static/538cea80e4b00f1fad490c1b/54668a77e4b00fb778d22a34/54668d8ae4b00fb778d2859c/1416007413413/NLTK.png" />
 <br>
@@ -31,10 +29,10 @@ This section explores how NLTK is currently used in a diverse arrange of discipl
 
 ###4. Activity
 
-This section you will get some practical experience exploring vocabularly with NLTK, including playing with some simple commands; specifically, concordancing and collocational analysis.
+In this section you will gain practical experience exploring vocabularly with NLTK. You will be introduced to some simple commands and linguistic functions.
 
 ###5. Help!
-Resources to help you on your nltk journey
+A list of resources to help you on your nltk journey.
 
 > !!--need to work out how to properly link section headings to sections--!!
 
