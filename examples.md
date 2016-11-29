@@ -1,11 +1,15 @@
 # Example: Dementia
 
+
+> Longitudinal detection of dementia through lexical and syntactic changes in writing: a case study of three British novelists (Le et al. 2011)
+
+
 Perhaps you recognize these women?
 
 
 > !!--insert their pictures here--!!
 
-*Longitudinal detection of dementia through lexical and syntactic changes in writing: a case study of three British novelists* (Le et al. 2011)
+
 
 I'll give you a clue, they are all English Novelists
 
