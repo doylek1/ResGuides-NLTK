@@ -1,9 +1,8 @@
 # Example: Shakespeare
 
- 
 
+> A Naive Bayes classifier for Shakespeare’s second-person pronoun (Mahowald 2012)
 
-> explain the research here, how they used NLTK and the team or person that wrote the paper (multidisciplinary or in the person interdisciplinary??)
 
 Mahowald's research sits between historical English, computer science, psycho-linguistics and brain and cognitive sciences. 
 
