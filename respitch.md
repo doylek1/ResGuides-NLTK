@@ -10,26 +10,28 @@
 # Natural Language Processing with NLTK
 
 <br>
-Welcome to this session on textual analysis with the Natural Language Toolkit or nltk, as we'll call it from now on. Nltk uses the computer programming language Python for natural language processing.
+This chapter is an introduction to computational textual analysis with the Natural Language Toolkit (NLTK). NLTK is a tool for Natural Language Processing (NLP). It uses the computer programming language [Python](https://www.python.org/) to analyze human languages. 
 
-This session we'll cover four main areas.
+This chapter will explain and contextualize the terms introduced above. It will outline the applications of NLP for research and initiate the inexperienced with some research-themed, practical exercises to concertize the discussion and hopefully inspire applications in your own research.
+
+This chapter will proceed as follows:
 
  
 ###1. Context 
 
-What is Natural Language Processing (NLP)? What is it look for and what are the applications for research?
+In this section will explain some of the basics of NLP and its applications for research.
 
 ###2. Background
 
-What is the Natural Language Toolkit (NLTK)? How is it related to NLP and why might I use it?
+NLTK is one of many NLP tools available to researchers. This section will discuss the origins of NLTK and its advantages and limitations for researchers.
 
 ###3. Examples
 
-How is NLTK used in research? Let's explore some examples from a diverse arrange of disciplines. 
+This section explores how NLTK is currently used in a diverse arrange of disciplines. 
 
 ###4. Activity
 
-We'll play with some simple commands and syntax for exploring vocabulary; specifically, concordancing and collocational analysis.
+This section you will get some practical experience exploring vocabularly with NLTK, including playing with some simple commands; specifically, concordancing and collocational analysis.
 
 ###5. Help!
 Resources to help you on your nltk journey
