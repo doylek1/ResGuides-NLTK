@@ -1,21 +1,24 @@
 # Example: Shakespeare
 
-This study investigates the way that 'y-' and 'th-' pronouns alternate in the full corpus of 37 Shakespearean plays. For 'y' pronouns think; 'you', 'your' etc... And ye olde; 'thee', 'thine', 'thou' etc... for 'th' pronouns.  
+ 
 
 
-> explain the research here, how they used nltk and the team or person that wrote the paper (multidiscplinary or in the person interdiscplinary??)
+> explain the research here, how they used NLTK and the team or person that wrote the paper (multidisciplinary or in the person interdisciplinary??)
+
+Mahowald's research sits between historical English, computer science, psycho-linguistics and brain and cognitive sciences. 
+
+His 2012 study investigates the way that *y-* and *th-* pronouns alternate in the full corpus of 37 Shakespearean plays. For *y-* pronouns think; 'you', 'your' etc... And ye olde; 'thee', 'thine', 'thou' etc... for *th-* pronouns. 
+
+Mahoward uses NLTK to write a '[Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)' classifer. This statistical formula for probability considers each occurrence of a second-person pronoun as a 'black box' that to be resolved into a *y-* pronoun or a *th-* pronoun depending on the surrounding words. The ability  to  discriminate  between  forms  based  only  on  context is a form of collocational analysis, which we will dabble with ourselves in the activity ahead. In the case of this study, collocational analysis confirms  the  hypothesis that the two classes of second-person pronoun are used distinctly in the Shakespearean corpus.   
+
+Significantly,  the  words  most  useful  in  classifying  a  pronoun  as  *y-* pronouns include high-register words such as lordship, madam, lords, and sir. After a group of conjugated second-person verbs like 'didst' and 'hast', the words most associated with *th-* pronouns  are  words such as torment, nuncle (a hilarious word for uncle), lesser,  and villain.
+
+
+> insert that table with the list of words here
 
 
 
-Significantly,  the  words  most  useful  in  classifying  a  pronoun  as  y-pronouns include high-register words such as lordship, madam, lords, and sir. 
-
-After a group of conjugated second-person verbs like 'art' and 'wert', the words most associated with 'th-' pronouns  are  words such as torment, nuncle (?), lesser,  and villain.
-
-The ability  to  discriminate  between  forms  based  only  on  context or collocational analysis, confirms  the  hypothesis that the two classes of second-person pronoun are used distinctly in the Shakespearean corpus. 
-
-And that these pronouns are use similarly to *Tu* and *Vous* in French. 'Th-' for familiar and 'y-' for formal. The analysis also seems to suggest that these pronouns were used, at least in Shakespeare, in a similarly classist fashion. 'Th-' for addressing servants and 'y-' for nobility.
-
-This is a form of collocational analysis, as I mentioned and will be using collocations in our challenge.
+If you have any French, you will be interested to know that these pronouns are used similarly to *Tu* and *Vous*. *Y-* for formal situations or when an inferior is addressing a 'social better' and *th-* when addressing a servant, peer or other familiar persons. 
 
 
 > include tables etc...
