@@ -1,7 +1,7 @@
 # Conclusion
 ##It's the ideas, stupid
 
-To paraphrase Bill Clinton, "it's the ideas, stupid"... 
+To adapt a phrase from the successful 1992 Clinton presidential campaign, "it's the ideas, stupid"... 
 - Wide range of disciplines 
 - Interdisciplinary research
 - Just uses a few parts of NLTK or more (e.g. WordNet, tokenizer, concordancing and collocations etc... or complicated like the Naive Bayes classier)
