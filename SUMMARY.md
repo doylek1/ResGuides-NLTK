@@ -10,6 +10,6 @@
 * [Example: Shakespeare](example_shakespeare.md)
 * [Example](example.md)
 * [Activity](activity.md)
-   * Challenge!
+   * [Challenge!](challenge.md)
 * [Conclusion](conclusion.md)
 
