@@ -3,7 +3,7 @@
 Let's start with some definitions...
 
 ####Natural Languages
-We are all very familiar with these. You speak at least one, maybe more. In natural language processing, the slightly counter-intuitive term 'natural language' is used to distinguish human languages from computer languages. 
+We are all very familiar with these. You speak at least one, maybe more. In natural language processing, the term 'natural language' is used to distinguish human languages from computer languages. 
 
 Examples of natural languages include; Mandarin, English, Portuguese, Arabic -- and I bet you can name a bunch more. Examples of computer languages include Python, R, JavaScript, etc... 
 
