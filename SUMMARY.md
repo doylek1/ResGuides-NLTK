@@ -8,4 +8,5 @@
 * [Background](context.md)
 * [Example: Dementia](examples.md)
 * [Example: Shakespeare](example_shakespeare.md)
+* Example
 
