@@ -36,10 +36,7 @@ In comparison, informal speech is characterised by smaller clauses, and more ver
 
 Here, we have only a few, simple nouns ('you', 'I'), paired with more expressive verbs ('feel', 'dropping by', 'think', 'want').
 
-At the other extreme, you can get very complicated very quickly with NLP. For example, 'understanding' complete human utterances to the extent that a computer can be program to respond.
-
-
-> !!--get an example of a complicated nlp project, preferably a visual and relatable one--!!
+At the other extreme, you can get very complicated very quickly with NLP. For example, 'understanding' complete human utterances to the extent that a computer can be program to respond. You may have experienced this technology through an automated phone dialogue system and perhaps encountered a certain level of frustration at the limits of the technology to date. This chapter will not approach to level of complication. 
 
 
 
