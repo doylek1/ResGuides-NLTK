@@ -10,7 +10,7 @@ Hashtags are used in Python to write comments to yourself and others who might r
 Contrary to popular myths perpetrated by Hollywood films, code does not fly off the fingers of talented techies. It's a slow, often collaborative process. 
 
 Absorb the learning objectives below and observe the relationship between code and the comment following the hash. When you feel sufficiently enlightened, move on to the challenge proper.      
-##Learning objectives for challenge!
+##Learning objectives
 ```python
 import nltk #import nltk into the Jupyter Notebook
 
