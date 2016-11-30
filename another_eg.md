@@ -1,9 +1,7 @@
-# Another e.g.
-
+# Last examples...
+Now that you have all concordanced and used collocations, here is an example of the kind of research you can conduct.
 
 > ‘He’ vs ‘she’ in Australian media coverage: what the language of news tells us about gender imbalance (Lukin 2016)
-
-Now that you have all done some concordancing, lets see an example of our new skill in action. 
 
 Annabel Lukin used a corpus of 18 Australian newspapers over a 12 moth period from August 2015 to July 2016 -- consisting of nearly 13,000 articles and close to 7.4 million words -- to examine what news discourse can tell us about gender imbalance. The corpus complied by linguists at Lancaster University’s Corpus Approaches to Social Science Research Centre showed that the ratio of “he” to “she” in Australian news reporting is 3.4 to 1.
 
