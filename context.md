@@ -8,6 +8,29 @@ Many areas covered in this chapter are covered in more detail in the [NLTK Book]
 (Figure 1. Parse tree, Bird et al. 2009)
 
 
+```python
+sentence = "They refuse to permit us the refuse permit"
+words = word_tokenize(sentence)
+tagged = nltk.pos_tag(words, tagset='universal')
+print(tagged)
+```
+
+    [('They', u'PRON'), ('refuse', u'VERB'), ('to', u'PRT'), ('permit', u'VERB'), ('us', u'PRON'), ('the', u'DET'), ('refuse', u'NOUN'), ('permit', u'NOUN')]
+
+
+Part of Speech tagging creates bigrams, that is, it associates the word with its tag in a pair of items that we can see above in brackets.  
+
+
+```python
+tag_fd = nltk.FreqDist(tag for (word, tag) in tagged)
+tag_fd.most_common()
+```
+
+
+
+
+    [(u'PRON', 2), (u'VERB', 2), (u'NOUN', 2), (u'DET', 1), (u'PRT', 1)]
+
 
 NLTK began its life in 2001 as a project of Steven Bird and Edward Loper. At the time, Bird was a professor in computational linguistics at the University of Pennsylvania and Loper, his star student. Together they agreed a plan for developing software infrastructure for NLP teaching that could be easily maintained over time. 
 
