@@ -22,8 +22,8 @@ They undertook a large-scale longitudinal study of lexical and syntactic changes
 
 Their results support the hypothesis that signs of dementia can be found in diachronic analyses of patients’ writings.
 
-
- ![](images/lexical_repetition_hd.jpg)
+![](images/lex_rep_small_hd.jpg)
+ 
 
 In particular, they found that it is probable that Agatha Christie indeed suffered from the onset of Alzheimer's while writing her last novels. Likewise, Iris Murdoch exhibited a ‘trough’ of relatively impoverished vocabulary and syntax in the writing of her late 40s and 50s that presaged her dementia.
 
