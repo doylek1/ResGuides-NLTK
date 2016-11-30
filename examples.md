@@ -5,7 +5,7 @@
 
 
 Perhaps you recognize these women?
-
+![](images/murdoch.jpg)![](images/christie.jpg)![](images/james.jpg)
 
 > !!--insert their pictures here--!!
 
