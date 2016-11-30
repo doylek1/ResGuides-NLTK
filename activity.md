@@ -1,4 +1,4 @@
-# Activity
+# Challenge!
 The first thing you will need for the challenge is to download Python and install NLTK. The easiest way to do it is to download [Anaconda](https://www.continuum.io/downloads). It's free. 
 
 Once you've installed the suite of tools that come with Anaconda (which includes the [Jupyter Notebook](http://jupyter.org/)), install NLTK from [here](http://www.nltk.org/install.html). Next, open the Jupyter Notebook on your machine and type "import nltk" into a cell (without the quotations). 
