@@ -10,22 +10,15 @@ Perhaps you recognize these women?
 
 I'll give you a clue, they are all English Novelists
 
-Iris Murdoch (first on the left)
+Iris Murdoch (first on the left) is best known for her novels concerning good and evil, sexual relationships, morality, and the power of the unconscious. Murdoch was diagnosed with Alzheimer's disease in 1997 and, sadly, died two years later in 1999.
 
-Best known for her novels about good and evil, sexual relationships, morality, and the power of the unconscious, Murdoch was diagnosed with Alzheimer's disease in 1997 and, sadly, died two years later in 1999.
+Agatha Christie (middle) the famous murder mystery author, long suspected of having the disease, but never diagnosed.
 
-Agatha Christie (middle)
-
-The famous murder mystery author, long suspected of having the disease, but never diagnosed.
-
-P. D. James (right)
-
-A crime novelist who, by all reports, lived a long and health life.
+P. D. James (right), a crime novelist who, by all reports, lived a long and health life.
 
 The study bought together a multidisciplinary team; two computer scientists, an English professor and a speech-language pathologists, all from the University of Toronto.
 
-They undertook a large-scale longitudinal study of lexical and syntactic changes in language in Alzheimer’s disease using complete, fully parsed texts and a large
-number of measures, using as their subjects the British novelists mentioned above. 
+They undertook a large-scale longitudinal study of lexical and syntactic changes in language, using as their subjects the British novelists mentioned above. 
 
 > Do I need to go into more detail about how nltk was used? (it's a bit technical).
 
