@@ -10,7 +10,7 @@
    * [Shakespeare](shakespeare.md)
    * [E-cigarettes](e-cigarettes.md)
 * [Activity](activity.md)
-   * [another e.g.](another_eg.md)
+   * [Last example](another_eg.md)
 * [Conclusion](conclusion.md)
    * [bibliography](bibliography.md)
 
