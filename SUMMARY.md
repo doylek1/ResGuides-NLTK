@@ -6,7 +6,7 @@
 * [Respitch - intro](respitch.md)
 * [Context](background.md)
 * [Background](context.md)
-* [Example: Dementia](examples.md)
+* [Examples: Dementia](examples.md)
    * [Shakespeare](shakespeare.md)
    * [E-cigarettes](e-cigarettes.md)
 * [Activity](activity.md)
