@@ -11,8 +11,6 @@ In any large set of text, the most frequent words are always the smallest - word
 
 Grammatically, 'he' or 'she' in a text implies that you are the subject of the clause. Furthermore, in a news conventions, it means the subject has lasted long enough in a story to graduate from a proper name to pronoun.
 
-We can also examine the frequency of combinations of words, like “he said” versus “she said”. Of the articles in the corpus, “he said” appeared 9,892 times compared to “she said” at 2,709 – a ratio of roughly 3.6 to 1. That tells us something important about whose voices are heard in Australian news media."*
-
 Proper nouns are also a good indicator of gender balance. It takes 20 names in the corpus before we reach a female name (Julie Bishop was Australia's foreign minster during the period).
 
 ![](images/names.png)
