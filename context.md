@@ -7,6 +7,7 @@ Many areas covered in this chapter are covered in more detail in the [NLTK Book]
 ![](images/tree.gif)
 (Figure 1. Parse tree, Bird et al. 2009)
 
+Remember that Python regards a text file as a single long string of characters. The first thing to do is to start breaking the text up into sentences and words.
 
 ```python
 sentence = "They refuse to permit us the refuse permit"
