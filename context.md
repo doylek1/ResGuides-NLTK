@@ -1,8 +1,8 @@
 # The Natural Language Toolkit
-NLTK is a Python Library for working with written language data. It is free, open source and [well documented](http://www.nltk.org/). Many areas covered in this chapter are covered in more detail in the [NLTK Book](http://www.nltk.org/book/). Some of the tasks NLTK can help you with include; tokenization (turning words in discrete data), stemming (removal of derivational affixes e.g. 's' 'ed', 'ing'), tagging (with parts-of-speech, for e.g) and parsing (creating a parse tree, for e.g. see figure below).
+NLTK is a Python Library for working with written language data. It is free, open source and [well documented](http://www.nltk.org/). Many areas covered in this chapter are covered in more detail in the [NLTK Book](http://www.nltk.org/book/). Some of the tasks NLTK can help you with include; tokenization (turning words in discrete data), stemming (removal of derivational affixes e.g. 's' 'ed', 'ing'), tagging (with parts-of-speech, for e.g) and parsing (creating a parse tree, for e.g.). The example below is a parse tree, which includes parts-of-speech tags (S = sentence, NN = noun, etc...).
 
 ![](images/tree.gif)
-(Figure 1. Bird et al. 2009)
+(Figure 1. Parse tree, Bird et al. 2009)
 
 NLTK began its life in 2001 as a project of Steven Bird and Edward Loper. At the time, Bird was a professor in computational linguistics at the University of Pennsylvania and Loper, his star student. Together they agreed a plan for developing software infrastructure for NLP teaching that could be easily maintained over time. 
 
