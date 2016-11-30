@@ -18,7 +18,7 @@ P. D. James (right), a crime novelist who, by all reports, lived a long and heal
 
 The study bought together a multidisciplinary team; two computer scientists, an English professor and a speech-language pathologists, all from the University of Toronto.
 
-They undertook a large-scale longitudinal study of lexical and syntactic changes in language, using as their subjects the British novelists mentioned above. 
+They undertook a large-scale longitudinal study of lexical and syntactic changes in language, using as their subjects the British novelists mentioned above. Specifically, they used lemmatized the the plain text file of a novel with NLTK WordNet's morphy method. 
 
 > Do I need to go into more detail about how nltk was used? (it's a bit technical).
 
