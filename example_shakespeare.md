@@ -13,7 +13,6 @@ Mahoward uses NLTK to write a '[Naive Bayes](https://en.wikipedia.org/wiki/Naive
 Significantly,  the  words  most  useful  in  classifying  a  pronoun  as  *y-* pronouns include high-register words such as lordship, madam, lords, and sir. After a group of conjugated second-person verbs, like 'didst' and 'hast', the words most associated with *th-* pronouns are  words such as torment, nuncle (a hilarious word for uncle), lesser,  and villain.
 
 
-> insert that table with the list of words here
 
 
 
