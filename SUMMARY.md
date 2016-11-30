@@ -13,5 +13,5 @@
    * [Challenge!](challenge.md)
    * [another e.g.](another_eg.md)
 * [Conclusion](conclusion.md)
-   * bibliography
+   * [bibliography](bibliography.md)
 
