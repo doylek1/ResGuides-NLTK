@@ -18,8 +18,3 @@ Additionally, the use of proper nouns is also a good indicator of gender balance
 
 
 I tweeted Dr Annabelle Lukin and she revealed that she used a simple concordancing program to produce this insightful public research.  
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/kim_doyle1">@kim_doyle1</a> tks I used simple concordance programme - wd love to see more use of this in <a href="https://twitter.com/hashtag/digitalhumanities?src=hash">#digitalhumanities</a> for studying text data</p>&mdash; Annabelle Lukin (@annabellelukin) <a href="https://twitter.com/annabellelukin/status/792952485816049664">October 31, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-This is an example of innovative research that you are all technically capable of. 
