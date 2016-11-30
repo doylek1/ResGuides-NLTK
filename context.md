@@ -5,6 +5,7 @@ NLTK is a Python Library for working with written language data. It is free, ope
 Many areas covered in this chapter are covered in more detail in the [NLTK Book](http://www.nltk.org/book/). Some of the tasks NLTK can help you with include; tokenization (turning words in discrete data), stemming (removal of derivational affixes e.g. 's' 'ed', 'ing'), tagging (with parts-of-speech, for e.g) and parsing (creating a parse tree, for e.g.). The example below is a parse tree, which includes parts-of-speech tags (S = sentence, NN = noun, etc...).
 
 ![](images/tree.gif)
+
 (Figure 1. Parse tree, Bird et al. 2009)
 
 The data we will be working with for the activity has already had some processing done on them so that we could use NLTK to find features of the language. However, Python regards a text file as a single long string of characters. The first thing to do is to start breaking the text up into sentences and words. Here is an example of one of NLTK's tokenizers at work:
