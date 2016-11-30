@@ -7,7 +7,7 @@ Many areas covered in this chapter are covered in more detail in the [NLTK Book]
 ![](images/tree.gif)
 (Figure 1. Parse tree, Bird et al. 2009)
 
-Remember that Python regards a text file as a single long string of characters. The first thing to do is to start breaking the text up into sentences and words.
+The data we will be working with for the activity has already had some processing done on them so that we could use NLTK to find features of the language. However, Python regards a text file as a single long string of characters. The first thing to do is to start breaking the text up into sentences and words. Here is an example of one of NLTK's tokenizers at work:
 
 ```python
 sentence = "They refuse to permit us the refuse permit"
@@ -21,37 +21,6 @@ print(tagged)
 
 Part of Speech tagging creates bigrams, that is, it associates the word with its tag in a pair of items that we can see above in brackets.  
 
-
-```python
-tag_fd = nltk.FreqDist(tag for (word, tag) in tagged)
-tag_fd.most_common()
-```
-
-
-
-
-    [(u'PRON', 2), (u'VERB', 2), (u'NOUN', 2), (u'DET', 1), (u'PRT', 1)]
-
-
 NLTK began its life in 2001 as a project of Steven Bird and Edward Loper. At the time, Bird was a professor in computational linguistics at the University of Pennsylvania and Loper, his star student. Together they agreed a plan for developing software infrastructure for NLP teaching that could be easily maintained over time. 
 
 That software infrastructure became NLTK. The toolkit supports at least 40 different languages and is now used in university courses around the world. The book *Natural Language Processing with Python* (2009), written by Steven Bird, Edward Loper and their collaborator Ewan Klein, has been cited at least 461 times. This literature covers the gamut of disciplines, from computer science to the social sciences, engineering, mathematics, medicine, biochemistry and genetics to business, management and accounting, to name only a few. 
-
-The toolkit is built on the theoretical framework and literature of computational linguistics.
-
-
-> maybe cut below....
-
-
-
-One linguistic theory is *Systemic Functional Linguistics*, developed by Michael Halliday (Prof. Emeritus at University of Sydney).
-
-This approach to linguistics understands language as a social semiotic system, examining how *realized language* (lexis and grammar) work to achieve meaningful social functions.
-
-Central to this theory is a division between *experiential meanings* and *interpersonal meanings*. Experiential meanings communicate what happened to whom and under what circumstances. Interpersonal meanings negotiate identities and role relationships between speakers. 
-
-Halliday argues that these two kinds of meaning are realized *simultaneously* through different parts of English grammar. Experiential meanings are made through *transitivity choices*, while interpersonal meanings are made through *mood choices*.
-
-Transitivity choices combine different configurations of participants (*a woman, pink unicorns*), processes (*sleep, has always been, is considering*) and circumstances (*on the weekend*, *in Australia*).
-
-Mood features of a language include: mood types (*declarative, imperative, interrogative*), modality (*could, can, might*) and lexical density i.e. the number of words per clause, the number of content to non-content words, etc...
