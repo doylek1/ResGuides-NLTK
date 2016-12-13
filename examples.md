@@ -4,7 +4,7 @@
 
 Perhaps you recognize these women?
 
-![](images/murdoch.jpg)
+==&gt; insert: black and white pictures of Iris Murdoch, Agatha Christie and P.D James
 
 I'll give you a clue, they are all English Novelists
 
