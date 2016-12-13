@@ -7,8 +7,8 @@
 * [Examples](examples.md)
     * [Shakespeare](shakespeare.md)
     * [E-cigarettes](e-cigarettes.md)
+    * [Gender imbalance](another_eg.md)
 * [Activity](activity.md)
-    * [Last example](another_eg.md)
 * [Conclusion](conclusion.md)
     * [bibliography](bibliography.md)
 
