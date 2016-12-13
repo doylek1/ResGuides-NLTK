@@ -1,10 +1,10 @@
-# Dementia
+# Longitudinal detection of dementia
 
 > Longitudinal detection of dementia through lexical and syntactic changes in writing: a case study of three British novelists \(Le et al. 2011\)
 
 Perhaps you recognize these women?
 
-**==&gt; insert: black and white pictures of Iris Murdoch, Agatha Christie and P.D James**
+**==&gt; INSERT: black and white pictures of Iris Murdoch, Agatha Christie and P.D James**
 
 I'll give you a clue, they are all English Novelists
 
