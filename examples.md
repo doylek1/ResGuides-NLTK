@@ -4,11 +4,7 @@
 
 Perhaps you recognize these women?
 
-
-
-==&gt; insert: black and white pictures of Iris Murdoch, Agatha Christie and P.D James
-
-
+**==&gt; insert: black and white pictures of Iris Murdoch, Agatha Christie and P.D James**
 
 I'll give you a clue, they are all English Novelists
 
@@ -24,11 +20,7 @@ They undertook a large-scale longitudinal study of lexical and syntactic changes
 
 Their results support the hypothesis that signs of dementia can be found in diachronic analyses of patients’ writings.
 
-
-
-==&gt; INSERT: Fig. 5 Lexical repetitions within 10 subsequent content
-
-
+**==&gt; INSERT: Fig. 5 Lexical repetitions within 10 subsequent content**
 
 In particular, they found that it is probable that Agatha Christie indeed suffered from the onset of Alzheimer's while writing her last novels. Likewise, Iris Murdoch exhibited a ‘trough’ of relatively impoverished vocabulary and syntax in the writing of her late 40s and 50s that presaged her dementia.
 
