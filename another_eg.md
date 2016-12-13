@@ -8,13 +8,21 @@ Annabel Lukin used a corpus of 18 Australian newspapers over a 12 moth period fr
 
 In any large set of text, the most frequent words are always the smallest - words such as 'the', 'and', 'a', etc... However, not very far down this list is the male pronoun: 'he'. In fact, 'he' was the 16th most frequently used word. By comparison, the female counterpart 'she' was number 66 on the list.
 
-![](images/he-she.png)
+
+
+**==&gt; INSERT: Where are all the women?**
+
+
 
 Grammatically, 'he' or 'she' in a text implies that you are the subject of the clause. Furthermore, in a news conventions, it means the subject has lasted long enough in a story to graduate from a proper name to pronoun.
 
 Proper nouns are also a good indicator of gender balance. It takes 20 names in the corpus before we reach a female name \(Julie Bishop was Australia's foreign minster during the period\).
 
-![](images/names.png)
+
+
+**==&gt; INSERT: Top 21 names...**
+
+
 
 I tweeted Dr Annabelle Lukin and she revealed that she used a simple concordancing program to produce this insightful public research.
 
