@@ -1,4 +1,4 @@
-# Longitudinal detection of dementia
+# Longitudinal study of lexical and syntactic changes in language
 
 > Longitudinal detection of dementia through lexical and syntactic changes in writing: a case study of three British novelists \(Le et al. 2011\)
 
