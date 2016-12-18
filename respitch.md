@@ -4,14 +4,14 @@
 
 This chapter is an introduction to computational textual analysis with the Natural Language Toolkit (NLTK). NLTK is a tool for Natural Language Processing (NLP). It uses the computer programming language [Python](https://www.python.org/) to analyze human languages. 
 
-This chapter will explain and contextualize the terms introduced above. It will outline the applications of NLP for research and initiate the inexperienced with some research-themed, practical exercises to concertize the discussion and hopefully inspire applications in your own research.
+This chapter will explain and contextualize the terms introduced above. It will outline the applications of NLP for research and initiate the inexperienced with some research-themed, practical exercises to concretize the discussion and hopefully inspire applications in your own research.
 
 This chapter will proceed as follows:
 
  
 ###1. Context 
 
-In this section will explain some of the basics of NLP and its applications for research.
+This section will explain some of the basics of NLP and its applications for research.
 
 ###2. Background
 
@@ -19,14 +19,15 @@ NLTK is one of many NLP tools available to researchers. This section will discus
 
 ###3. Examples
 
-This section explores how NLTK is currently used in a diverse arrange of disciplines. 
+This section explores how NLTK is currently used in a diverse range of disciplines. 
 
 ###4. Activity
 
 In this section you will gain practical experience exploring vocabularly with NLTK. You will be introduced to some simple commands and linguistic functions.
 
 ###5. Help!
-A list of resources to help you on your NLTK journey.
+
+This section provides a list of resources to help you on your NLTK journey.
 
 
 
