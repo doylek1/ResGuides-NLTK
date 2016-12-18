@@ -13,13 +13,11 @@ Human languages come with their own histories and culture; think about your own 
 In contrast, artificial languages have no such ambiguity. Computer languages are mathematical and logical. Ambiguity in computer programming languages leads to error messages. 
 
 ```---------------------------------------------------------------------------
-NameError                                 Traceback (most recent call last)
-<ipython-input-32-d25100ff30af> in <module>()
-----> 1 love
+1 love
 
 NameError: name 'love' is not defined```
 
-Examples of computer languages include Python, R, JavaScript, etc... 
+Examples of computer languages include Python, R, JavaScript, etc. 
 
 ####Natural Language Processing (NLP) 
 NLP tries to use programming to understand human languages. Usually, this is in the form of written text or audio that is translated into text and then converted into something the computer can understand. Numbers.  
