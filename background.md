@@ -20,9 +20,9 @@ NameError: name 'love' is not defined```
 Examples of computer languages include Python, R, JavaScript, etc. 
 
 ####Natural Language Processing (NLP) 
-NLP tries to use programming to understand human languages. Usually, this is in the form of written text or audio that is translated into text and then converted into something the computer can understand. Numbers.  
+NLP uses programming to understand human languages. Usually, this is in the form of written text or audio that is translated into text and then converted into something the computer can understand... Numbers.  
 
-This chapter uses NLP in a broad sense to include any computer manipulation of natural language. At one extreme, this could be simple. For example, counting word frequencies to compare different writing styles. 
+This chapter uses the term NLP in a broad sense to include any computer manipulation of natural language. A simple example is: counting word frequencies to compare different writing styles. 
 
 ####An example...
 
