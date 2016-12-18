@@ -3,11 +3,11 @@
 Let's start with some definitions...
 
 ####Natural Languages
-We are all very familiar with these. You speak at least one, maybe more. In natural language processing, the term 'natural language' is used to distinguish human languages from computer languages. 
+We are all very familiar with natural languages. You speak at least one, maybe more. In natural language processing, the term 'natural language' is used to distinguish human languages from computer languages. 
 
 Examples of natural languages include; Mandarin, English, Portuguese, Arabic — and I bet you can name a bunch more. 
 
-Human languages come with their own histories and culture; our history and culture. They are beautiful and messy. That is why we fall in love with them. Words have connotations and multiple meanings. Languages are full of ambiguity and rules for use at difficult to pin down.  
+Human languages come with their own histories and culture; think about your own history and culture. These languages are beautiful and messy. That is why we fall in love with them. Words have connotations and multiple meanings. Languages are full of ambiguity and rules for use can be difficult to pin down.  
 
 ####Computer languages
 In contrast, artificial languages have no such ambiguity. Computer languages are mathematical and logical. Ambiguity in computer programming languages leads to error messages. 
