@@ -1,6 +1,6 @@
 # The Natural Language Toolkit
 NLTK is a Python Library for working with written language data. It is free, open source and [well documented](http://www.nltk.org/). 
-NLTK began its life in 2001 as a project of Steven Bird and Edward Loper. At the time, Bird was a professor in computational linguistics at the University of Pennsylvania and Loper, his star student. Together they agreed a plan for developing software infrastructure for NLP teaching that could be easily maintained over time. 
+NLTK began its life in 2001 as a project of Steven Bird and Edward Loper. At the time, Bird was a professor in computational linguistics at the University of Pennsylvania and Loper, his star student. Together they agreed on a plan for developing software infrastructure for NLP teaching that could be easily maintained over time. 
 
 That software infrastructure became NLTK. The toolkit supports at least 40 different languages and is now used in university courses around the world. The book *Natural Language Processing with Python* (2009), written by Steven Bird, Edward Loper and their collaborator Ewan Klein, has been cited at least 461 times. This literature covers the gamut of disciplines, from computer science to the social sciences, engineering, mathematics, medicine, biochemistry and genetics to business, management and accounting, to name only a few. 
 
@@ -12,7 +12,7 @@ Many areas covered in this chapter are covered in more detail in the [NLTK Book]
 
 (Figure 1. Parse tree, Bird et al. 2009)
 
-The data we will be working with later has already had some processing done on it so that we could use NLTK to find features of the language. However, in general, Python regards a text file as a single long string of characters. Tokenization breaks text into sentences and words that the computer can understand as discrete units. Here is an example of one of NLTK's tokenizers at work:
+The data we will be working with later has already had some processing done on it so that we will be able to use NLTK to find features of the language. However, in general, Python regards a text file as a single long string of characters. Tokenization breaks text into sentences and words that the computer can understand as discrete units. Here is an example of one of NLTK's tokenizers at work:
 
 ```python
 sentence = "They refuse to permit us the refuse permit"
