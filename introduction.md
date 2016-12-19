@@ -1,9 +1,7 @@
-<br>
-<img style="float:left" src="https://static1.squarespace.com/static/538cea80e4b00f1fad490c1b/54668a77e4b00fb778d22a34/54668d8ae4b00fb778d2859c/1416007413413/NLTK.png" />
-<br>
+#Textual Analysis with NLTK
 
 This chapter is an introduction to textual analysis with the Natural Language Toolkit (NLTK). 
-NLTK is a tool for Natural Language Processing (NLP). 
+[NLTK](http://www.nltk.org/) is a tool for Natural Language Processing (NLP). 
 It uses the computer programming language [Python](https://www.python.org/) to analyze human languages. 
 
 This chapter will explain and contextualize the terms introduced above, outline the applications of NLP for research and introdce some practical exercises to get you started and hopefully inspire your own research.
