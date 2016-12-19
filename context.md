@@ -15,7 +15,7 @@ Many areas covered in this chapter are covered in more detail in the [NLTK Book]
 ```python
 from nltk.corpus import treebank #from the nltk corpus import the treebank function.
 t = treebank.parsed_sents('wsj_0001.mrg')[0] #save the 'parsed' sents (sentences) from the Wall Street Journal as the 'variable' t 
-t.draw() #draw t
+t.draw() #draw t (see output below)
 ```
 
 ![](images/tree.gif)
