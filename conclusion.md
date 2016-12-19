@@ -1,8 +1,9 @@
 # Plenary
 
-In this chapter, we have explored the diverse range of interdisciplinary research that uses NLP to answer innovative new research questions, using just a few features of NLTK \(e.g. WordNet, tokenization, concordancing and collocations etc...\). As well as more complicated programs, such as Mahowald's Naive Bayes classier for the Shakespeare corpus.
+In this chapter, by looking at only a few features of NLTK \(e.g. WordNet, tokenization, concordancing and collocations etc...\),
+we have explored the diverse range of interdisciplinary research using NLP to answer innovative new research questions. We have also explored more complicated programs, such as Mahowald's Naive Bayes classier for the Shakespeare corpus.
 
-You have seen how repetitive tasks can be automated \(such as counting words, tagging or creating parse trees\). Hopefully, this will free you to spend more time analyzing your research and planning new exciting projects.
+You have seen how repetitive tasks can be automated \(such as counting words, tagging or creating parse trees\). Hopefully, this automation will free up time for you to spend analyzing your research and planning new exciting projects.
 
-Your next steps are to have fun and play with code. Don't try to master or even understand every at once. Surround yourself with the people who can help you. Join a community.
+Your next steps are to have fun and start playing with code. Don't try to master or even understand everything at once. Surround yourself with the people who can help you. Join a community.
 
