@@ -22,6 +22,8 @@ t.draw() #draw t (see output below)
 
 (Figure 1. Parse tree, Bird et al. 2009)
 
+Variables, in computer programming, are a storage location paired with an associated symbolic name (an identifier), which contains some known or unknown quantity of information referred to as a value. In this case 't' is a variable that saves the parsed sentences as a treebank.
+
 The data we will be working with later has already had some processing done on it so that we will be able to use NLTK to find features of the language. However, in general, Python regards a text file as a single long string of characters. Tokenization breaks text into sentences and words that the computer can understand as discrete units. Here is an example of one of NLTK's tokenizers at work:
 
 ```python
@@ -35,4 +37,4 @@ print(tagged)
     ('us', u'PRON'), ('the', u'DET'), ('refuse', u'NOUN'), ('permit', u'NOUN')]
 
 
-Part of Speech tagging creates bigrams, that is, it associates the word with its tag in a pair of items that we can see above in brackets. We can also observe that each word is now an item in a list, as opposed to the original sentence in quotation marks, separated only by spaces. 
+Part of Speech tagging creates bigrams; it associates the word with its tag in a pair of items that we can see above in brackets. We can also observe that each word is now an item in a list, as opposed to the original sentence in quotation marks, separated only by spaces. A list in computer programming is an abstract data type  that represents a countable number of ordered values.
