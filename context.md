@@ -12,6 +12,12 @@ The book [*Natural Language Processing with Python*](http://www.nltk.org/book/) 
 
 Many areas covered in this chapter are covered in more detail in the [NLTK Book](http://www.nltk.org/book/). Some of the tasks NLTK can help you with include; tokenization (turning words into discrete data), stemming (removal of derivational affixes e.g. 's' 'ed', 'ing'), lemmatization (grouping together different forms of a word, e.g. walk, walks, walking, as a single item), tagging (with parts-of-speech, for e.g) and parsing (creating a parse tree, for e.g.). The example below is a parse tree, which includes parts-of-speech tags (S = sentence, NN = noun, etc...).
 
+```python
+from nltk.corpus import treebank #from the nltk corpus import the treebank function.
+t = treebank.parsed_sents('wsj_0001.mrg')[0] #save the 'parsed' sents (sentences) from the Wall Street Journal as the 'variable' t 
+t.draw() #draw t
+```
+
 ![](images/tree.gif)
 
 (Figure 1. Parse tree, Bird et al. 2009)
