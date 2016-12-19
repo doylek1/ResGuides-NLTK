@@ -14,5 +14,5 @@ Significantly,  the  words  most  useful  in  classifying  a  pronoun  as  _y-_ 
 
 **==&gt; INSERT: Table 4 Most informative features by pronoun type**
 
-If you have any French, you will be interested to know that these pronouns are used similarly to _Tu_ and _Vous_. _Y-_ for formal situations or when an inferior is addressing a 'social better' and _th-_ when addressing a servant, peer or other familiar persons.
+If you know any French, you will be interested to know that these pronouns are used similarly to _Tu_ and _Vous_. _Y-_ for formal situations or when an inferior is addressing a 'social better' and _th-_ when addressing a servant, peer or other familiar persons.
 
