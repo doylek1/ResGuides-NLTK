@@ -1,40 +1,48 @@
-# The Natural Language Toolkit
-NLTK is a Python Library for working with written language data. 
-It is free, open source and [well documented](http://www.nltk.org/). 
-NLTK began its life in 2001 as a project of Steven Bird and Edward Loper. At the time, Bird was a professor in computational linguistics at the University of Pennsylvania and Loper, his star student. 
-Together they agreed on a plan for developing software infrastructure for NLP teaching that could be easily maintained over time. 
+#Natural Language Processing
 
-That software infrastructure became NLTK. 
-The toolkit supports at least 40 different languages and is now used in university courses around the world.
-The book [*Natural Language Processing with Python*](http://www.nltk.org/book/) (2009), written by Steven Bird, Edward Loper and their collaborator Ewan Klein, has been cited at least 461 times. This literature covers the gamut of disciplines, from computer science to the social sciences, engineering, mathematics, medicine, biochemistry and genetics to business, management and accounting, to name only a few. 
+Let's start with some definitions...
 
-> Note: NLTK provides tools for tasks ranging from very simple (counting words in a text) to very complex (writing and training parsers, etc.). Many advanced tasks are beyond the scope of this chapter
+####Natural Languages
+We are all very familiar with natural languages. You speak at least one, maybe more. In natural language processing, the term 'natural language' is used to distinguish human languages from computer languages. 
 
-Many areas covered in this chapter are covered in more detail in the [NLTK Book](http://www.nltk.org/book/). Some of the tasks NLTK can help you with include; tokenization (turning words into discrete data), stemming (removal of derivational affixes e.g. 's' 'ed', 'ing'), lemmatization (grouping together different forms of a word, e.g. walk, walks, walking, as a single item), tagging (with parts-of-speech, for e.g) and parsing (creating a parse tree, for e.g.). The example below is a parse tree, which includes parts-of-speech tags (S = sentence, NN = noun, etc...).
+Examples of natural languages include; Mandarin, English, Portuguese, Arabic — and I bet you can name a bunch more. 
 
-```python
-from nltk.corpus import treebank #from the nltk corpus import the treebank function.
-t = treebank.parsed_sents('wsj_0001.mrg')[0] #save the 'parsed' sents (sentences) from the Wall Street Journal as the 'variable' t 
-t.draw() #draw t (see output below)
-```
+Human languages come with their own histories and culture; think about your own history and culture. These languages are beautiful and messy. That is why we fall in love with them. Words have connotations and multiple meanings. Languages are full of ambiguity and rules for use can be difficult to pin down.  
 
-![](images/tree.gif)
+####Computer languages
+In contrast, artificial languages have no such ambiguity. Computer languages are mathematical and logical. Ambiguity in computer programming languages leads to error messages. 
 
-(Figure 1. Parse tree, Bird et al. 2009)
+```---------------------------------------------------------------------------
+1 love
 
-Variables, in computer programming, are a storage location paired with an associated symbolic name (an identifier), which contains some known or unknown quantity of information referred to as a value. In this case 't' is a variable that saves the parsed sentences as a treebank.
+NameError: name 'love' is not defined```
 
-The data we will be working with later has already had some processing done on it so that we will be able to use NLTK to find features of the language. However, in general, Python regards a text file as a single long string of characters. Tokenization breaks text into sentences and words that the computer can understand as discrete units. Here is an example of one of NLTK's tokenizers at work:
+Examples of computer languages include Python, R, JavaScript, etc. 
 
-```python
-sentence = "They refuse to permit us the refuse permit"
-words = word_tokenize(sentence)
-tagged = nltk.pos_tag(words, tagset='universal')
-print(tagged)
-```
+####Natural Language Processing (NLP) 
+NLP uses programming to understand human languages. Usually, this is in the form of written text or audio that is translated into text and then converted into something the computer can understand... Numbers.  
 
-    [('They', u'PRON'), ('refuse', u'VERB'), ('to', u'PRT'), ('permit', u'VERB'),
-    ('us', u'PRON'), ('the', u'DET'), ('refuse', u'NOUN'), ('permit', u'NOUN')]
+This chapter uses the term NLP in a broad sense to include any computer manipulation of natural language. A simple example is: counting word frequencies to compare different writing styles. 
+
+####An example...
+
+Lexical density - calculated as the number of lexical words (nouns, verbs, adjectives, etc) in a text divided by the total number of words - is usually a good indicator of the general tone of texts. The language of academia, for example, often has a large number of nouns to verbs. We can approximate an academic tone simply by making nominally dense clauses: 
+
+      The consideration of interest is the potential for a participant of a certain 
+      demographic to be in Group A or Group B.
+
+Notice how not only are there many nouns ('consideration', 'interest', 'potential', etc.), but that the verbs are very simple ('is', 'to be').
+
+In comparison, informal speech is characterised by smaller clauses, and more verbs.
+
+      A: Did you feel like dropping by?
+      B: I thought I did, but now I don't think I want to.
+
+Here, we have only a few, simple nouns ('you', 'I'), paired with more expressive verbs ('feel', 'dropping by', 'think', 'want').
+
+NLP also has the potential to get very complicated very quickly. For example, 'understanding' complete human utterances to the extent that a computer can be programmed to sensibly respond. You may have experienced this technology through an automated phone dialogue system and perhaps encountered a certain level of frustration at the limits of the technology to date. Don't worry, this chapter won't approach this level of complication and will stick with analysis of written texts! 
 
 
-Part of Speech tagging creates bigrams; it associates the word with its tag in a pair of items that we can see above in brackets. We can also observe that each word is now an item in a list, as opposed to the original sentence in quotation marks, separated only by spaces. A list in computer programming is an abstract data type  that represents a countable number of ordered values.
+
+
+
