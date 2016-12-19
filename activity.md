@@ -16,9 +16,11 @@ from nltk.book import * #import the example corpora from nltk
 
 text2 #what a variable is and how to "call" one
 
-text2.concordance("any_word") #show every instance of a word in context
+text2.concordance("any_word") #show every instance of a word in context. 
 
 text2.collocations() #most common words that appear repeatedly together
+
+#Use text5, text7 and text8. Call the text, then investigate the use of gendered language in the texts e.g. he, she, women, lady, man, etc...
 ```
 
 * Hashtags are used in Python to write comments to yourself and others who might read your code. They do not effect the instructions that the computer receives and are used to remind you or explain to another what your code is meant to achieve.
