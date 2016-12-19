@@ -17,7 +17,7 @@ In contrast, artificial languages have no such ambiguity. Computer languages are
 
 NameError: name 'love' is not defined```
 
-Examples of computer languages include Python, R, JavaScript, etc. 
+Examples of computer languages you might have heard of (some covered in this book) include Python, R, Matlab, and JavaScript.
 
 ####Natural Language Processing (NLP) 
 NLP uses programming to understand human languages. Usually, this is in the form of written text or audio that is translated into text and then converted into something the computer can understand... Numbers.  
