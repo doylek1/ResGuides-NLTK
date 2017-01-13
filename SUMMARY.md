@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Respitch - intro](respitch.md)
-* [Context](background.md)
-* [Background](context.md)
+* [Background1](background.md)
+* [glossary](context.md)
 * [Examples](examples.md)
     * [Shakespeare](shakespeare.md)
     * [E-cigarettes](e-cigarettes.md)
